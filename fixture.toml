@@ -1,0 +1,4 @@
+stack = "go"
+shape = "monorepo"
+protection = "squash-only"
+expect = "go test ./a/... ./b/..."
